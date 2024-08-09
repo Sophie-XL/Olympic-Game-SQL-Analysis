@@ -21,8 +21,8 @@ The project consists of the following SQL files:
 5. **[Olympic Reports](https://github.com/Sophie-XL/Olympic-Game-SQL-Analysis/blob/c7ce6f0edb77a4c81acceb9050aaf02272ede57c/Olympic%20Reports.sql)**: A collection of reports that apply SQL skills to generate insights, such as identifying the most decorated athletes, analyzing countries with high medal rates, and more.
 
 ## 4. Skills Used
-- **SQL Querying**: Writing efficient SQL queries to extract and manipulate data.
-- **Data Exploration**: Analyzing and understanding data patterns and distributions.
-- **Data Cleaning**: Ensuring data quality by fixing data type issues, cleaning messy strings, handling nulls, and removing duplication.
-- **Advanced SQL Techniques**: Implementing complex SQL operations like joins, subqueries, window functions, and aggregations.
-- **Report Generation**: Creating comprehensive reports to summarize and present key findings.
+- [x] **SQL Querying**: Writing efficient SQL queries to extract and manipulate data.
+- [x] **Data Exploration**: Analyzing and understanding data patterns and distributions.
+- [x] **Data Cleaning**: Ensuring data quality by fixing data type issues, cleaning messy strings, handling nulls, and removing duplication.
+- [x] **Advanced SQL Techniques**: Implementing complex SQL operations like joins, subqueries, window functions, and aggregations.
+- [x] **Report Generation**: Creating comprehensive reports to summarize and present key findings.
